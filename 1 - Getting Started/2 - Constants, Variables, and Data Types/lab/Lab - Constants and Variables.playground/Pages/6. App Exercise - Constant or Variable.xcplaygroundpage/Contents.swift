@@ -11,12 +11,14 @@
  - Goal number of steps: The user's goal for number of steps to take each day
  - Average heart rate: The user's average heart rate over the last 24 hours
  */
+var Name = ("Gabriela")
+var Age = 16
+var NumberSteps = 10000
+var AverageHeart = 40
 
-
-
-
-
+print is variable declaration becuse the person who use the app have different name and age. And the goal for number of steps chance depends of the goal of each person. The heart rate but vries depending the person. 
 /*:
  Now go back and add a line after each constant or variable declaration. On those lines, print a statement explaining why you chose to declare the piece of information as a constant or variable.
  */
 //: [Previous](@previous)  |  page 6 of 10  |  [Next: Exercise - Types and Type Safety](@next)
+
