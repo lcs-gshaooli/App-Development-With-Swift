@@ -10,9 +10,9 @@ let storedPassword = "a8H1LuK91"
 let enteredUserName = "thefittest11"
 let enteredPassword: String = "a8H1Luk9"
 if storedUserName.lowercased() == enteredUserName.lowercased() &&
-storedPassword == enteredPassword
+    storedPassword == enteredPassword {
 print ("You are now logged in!")
-    {else
+    { else
         print ("Please check your user name and password and try again.")
 }
 
